@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.were{
+    background-color: #695AFF;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.wolf{
+    background-color: #EEAACC;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.enid{
+    background-color: #990011;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.sinclair{
+    background-color: #40826D;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.wednesday{
+    background-color: #E52B50;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
